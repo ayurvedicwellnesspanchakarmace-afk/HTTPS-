@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+<rect width="800" height="800" fill="#f3f7ef"/>
+<rect x="160" y="70" width="480" height="660" rx="30" fill="#fff" stroke="#c8d7bf" stroke-width="8"/>
+<text x="400" y="145" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#176334">ZANDU</text>
+<text x="400" y="210" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#333">RhumasyL Maxx</text>
+<text x="400" y="255" text-anchor="middle" font-family="Arial" font-size="30" fill="#555">Liniment</text>
+<circle cx="400" cy="420" r="120" fill="#e7f0df"/>
+<text x="400" y="410" text-anchor="middle" font-family="Arial" font-size="48" font-weight="700" fill="#176334">100 ml</text>
+<text x="400" y="465" text-anchor="middle" font-family="Arial" font-size="24" fill="#555">Ayurvedic Product</text>
+<text x="400" y="650" text-anchor="middle" font-family="Arial" font-size="26" fill="#176334">MRP ₹305  •  Offer ₹205</text>
+</svg>
